@@ -7,9 +7,9 @@ This repo contains MTA Turnstile data and solution at Istanbul Data Science Acad
 Exploratory Data Analysis refers to the critical process of performing initial investigations on data so as to discover patterns,to spot anomalies,to test hypothesis and to check assumptions with the help of summary statistics and graphical representations.
 
 ## Objective and Goal:
-* BUSINESS NEED|Specifying usage of transportation frequency in pandemic
-* OBJECTIVE | Finding the busiest subway stations, most crowded day and best time slot
-* SOLUTION | Using MTA Turnstile and analyse to find best placement for comfort transportation. To show, visualize the data to users.
+* BUSINESS NEED => Specifying usage of transportation frequency in pandemic
+* OBJECTIVE =>  Finding the busiest subway stations, most crowded day and best time slot
+* SOLUTION => Using MTA Turnstile and analyse to find best placement for comfort transportation. To show, visualize the data to users.
 
 ## MTA Turnstile Data:
 Data obtained from http://web.mta.info/developers/turnstile.html.
