@@ -7,7 +7,10 @@ This repo contains MTA Turnstile data and solution at Istanbul Data Science Acad
 Exploratory Data Analysis refers to the critical process of performing initial investigations on data so as to discover patterns,to spot anomalies,to test hypothesis and to check assumptions with the help of summary statistics and graphical representations.
 
 ## Objective and Goal:
-
+| C/A        | Control Area (A002)                                                             |
+| UNIT       | Remote Unit for a station (R051)                                                |
+| SCP        | Subunit Channel Position represents an specific address for a device (02-00-00) |
+| STATION    | Represents the station name the device is located at                            |
 * BUSINESS NEED|Specifying usage of transportation frequency in pandemic
 * OBJECTIVE | Finding the busiest subway stations, most crowded day and best time slot
 * SOLUTION | Using MTA Turnstile and analyse to find best placement for comfort transportation. To show, visualize the data to users.
